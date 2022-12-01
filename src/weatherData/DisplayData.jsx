@@ -111,6 +111,7 @@ function DisplayData() {
           </div>
           <h1>Weather is not Available </h1>
           <p>Allow Location in settings or try to reload</p>
+          <p>Reset permissions if above steps did not help</p>
         </div>
       }
     </div >
